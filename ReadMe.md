@@ -9,7 +9,7 @@ To start the application, follow the steps below:
 3. Run the following command to start the application and build the Docker containers:
 
     ```
-    docker-compose up --build -d
+    docker compose up --build -d
     ```
 
 4. Once the containers are up and running, access the application container by running the following command:
